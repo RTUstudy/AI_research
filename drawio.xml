@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="static.miro-apps.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="bQ_GWyhaZDbDopy6YQLl">
+    <mxGraphModel dx="1174" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="17" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="120" y="70" width="750" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-2" value="" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="22.388059701492537" width="727.6119402985074" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-3" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0;entryY=0.914;entryDx=0;entryDy=0;entryPerimeter=0;" parent="17" target="eKBXuSY8kzNvt8zO8hQt-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="22.388059701492537" y="438.85714285714283" as="sourcePoint" />
+            <mxPoint x="715.2985074626865" y="438.85714285714283" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" source="eKBXuSY8kzNvt8zO8hQt-6" target="eKBXuSY8kzNvt8zO8hQt-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="153.47014925373148" y="507.4285714285714" as="sourcePoint" />
+            <mxPoint x="123.13432835820896" y="423.3325714285715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-6" value="&amp;nbsp; &amp;nbsp;A-0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry y="438.85714285714283" width="145.5223880597015" height="41.142857142857146" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-7" value="Title:&amp;nbsp; &amp;nbsp; Extract from Level 0:&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Emotional Pedagogical Agent (EPA)&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="50.373134328358205" y="445.7142857142857" width="626.865671641791" height="27.428571428571427" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-43" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;PURPOSE: Enhance the interaction between educators and learners by developing an EPA that integrates AI features into e-learning environments.&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="67.16417910447761" y="342.8571428571429" width="615.6716417910447" height="41.142857142857146" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-50" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="582.089552238806" y="480" as="sourcePoint" />
+            <mxPoint x="582.089552238806" y="438.85714285714283" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-51" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: start;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font&gt;Manage Learning Experience&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="286.15298507462677" y="139.8857142857143" width="156.71641791044775" height="89.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-52" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;VIEWPOINT:&amp;nbsp;&amp;nbsp;Viewpoint: System Designer/Project Manager&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="67.16417910447761" y="384" width="335.820895522388" height="41.142857142857146" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-53" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="420.4813432835821" y="201.60000000000002" width="22.388059701492537" height="27.428571428571427" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-55" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="191.00373134328356" y="180.24685714285715" as="sourcePoint" />
+            <mxPoint x="286.15298507462677" y="180.24685714285715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-61" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="191.00373134328356" y="207.67542857142854" as="sourcePoint" />
+            <mxPoint x="286.15298507462677" y="207.67542857142854" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-62" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="191.00373134328356" y="153.60000000000002" as="sourcePoint" />
+            <mxPoint x="286.15298507462677" y="153.60000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-63" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="297.34701492537306" y="91.88571428571429" as="sourcePoint" />
+            <mxPoint x="297.34701492537306" y="139.8857142857143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-64" value="&lt;font&gt;Learning materials&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="95.85447761194028" y="139.8857142857143" width="89.55223880597015" height="13.714285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-66" value="&lt;div&gt;&lt;font&gt;Emotional feedback&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="84.66044776119402" y="181.02857142857144" width="100.74626865671641" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-67" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;Student performance data&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=9;" parent="17" vertex="1">
+          <mxGeometry x="62.27238805970148" y="208.45714285714286" width="123.13432835820896" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-71" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="442.8694029850746" y="153.60000000000002" as="sourcePoint" />
+            <mxPoint x="538.0186567164178" y="153.60000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-73" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="442.8694029850746" y="180.24685714285715" as="sourcePoint" />
+            <mxPoint x="538.0186567164178" y="180.24685714285715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-74" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="442.8694029850746" y="208.45714285714286" as="sourcePoint" />
+            <mxPoint x="538.0186567164178" y="208.45714285714286" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-75" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Updated learning materials&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="547.8134328358209" y="133.0285714285714" width="128.7313432835821" height="34.285714285714285" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-80" value="&lt;font&gt;Adapted learning path&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="547.8134328358209" y="167.31428571428572" width="111.94029850746267" height="27.428571428571427" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-81" value="&lt;font&gt;Student progress reports&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="547.8134328358209" y="187.88571428571427" width="123.13432835820896" height="41.142857142857146" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-84" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="336.20149253731336" y="87.77142857142857" as="sourcePoint" />
+            <mxPoint x="336.20149253731336" y="139.8857142857143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-85" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375.705223880597" y="87.77142857142857" as="sourcePoint" />
+            <mxPoint x="375.705223880597" y="139.8857142857143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-86" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409.2873134328358" y="87.08571428571429" as="sourcePoint" />
+            <mxPoint x="409.2873134328358" y="139.20000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-87" value="&lt;font&gt;Educational standards&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="260.4067164179104" y="43.885714285714286" width="44.776119402985074" height="41.142857142857146" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-88" value="&lt;font&gt;Course objectives&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="313.01865671641787" y="41.142857142857146" width="44.776119402985074" height="41.142857142857146" as="geometry" />
+        </mxCell>
+        <mxCell id="eKBXuSY8kzNvt8zO8hQt-90" value="&lt;div&gt;&lt;font&gt;Student profiles&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="360.03358208955217" y="58.971428571428575" width="33.582089552238806" height="20.571428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="&lt;font&gt;Authentication protocols&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="405.64925373134326" y="51.42857142857143" width="44.776119402985074" height="20.571428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="313.01865671641787" y="277.0285714285714" as="sourcePoint" />
+            <mxPoint x="313.01865671641787" y="229.02857142857144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360.0335820895521" y="281.14285714285717" as="sourcePoint" />
+            <mxPoint x="360.0335820895521" y="229.02857142857144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="402.57089552238796" y="281.14285714285717" as="sourcePoint" />
+            <mxPoint x="402.57089552238796" y="229.02857142857144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Emotional Pedagogical Agent (EPA)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="17" vertex="1">
+          <mxGeometry x="260.41" y="285.17" width="73.62" height="41.14" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;E-learning platforms&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="17" vertex="1">
+          <mxGeometry x="330" y="285.17" width="56.38" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;AI algorithms&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="17" vertex="1">
+          <mxGeometry x="393.62" y="285.17" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
